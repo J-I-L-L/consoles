@@ -1,0 +1,14 @@
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.exe
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.deps.json
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.runtimeconfig.json
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.runtimeconfig.dev.json
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.dll
+D:\c solutions\csharp\ConsoleFirst\bin\Debug\netcoreapp3.1\ConsoleFirst.pdb
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.csproj.AssemblyReference.cache
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.AssemblyInfoInputs.cache
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.AssemblyInfo.cs
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.csproj.CoreCompileInputs.cache
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.dll
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.pdb
+D:\c solutions\csharp\ConsoleFirst\obj\Debug\netcoreapp3.1\ConsoleFirst.genruntimeconfig.cache
