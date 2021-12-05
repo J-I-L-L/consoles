@@ -1,0 +1,14 @@
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.csproj.AssemblyReference.cache
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.AssemblyInfoInputs.cache
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.AssemblyInfo.cs
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.csproj.CoreCompileInputs.cache
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.exe
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.deps.json
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.runtimeconfig.json
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.runtimeconfig.dev.json
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.dll
+G:\C# solutions\zad3_I\bin\Debug\netcoreapp3.1\zad3_I.pdb
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.dll
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.pdb
+G:\C# solutions\zad3_I\obj\Debug\netcoreapp3.1\zad3_I.genruntimeconfig.cache
