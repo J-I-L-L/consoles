@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zad6_I_b/1.0.0": {
+        "runtime": {
+          "zad6_I_b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad6_I_b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
