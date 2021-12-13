@@ -1,0 +1,14 @@
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.exe
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.deps.json
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.runtimeconfig.json
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.runtimeconfig.dev.json
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.dll
+D:\c solutions\csharp\zad8_I\bin\Debug\netcoreapp3.1\zad8_I.pdb
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.csproj.AssemblyReference.cache
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.GeneratedMSBuildEditorConfig.editorconfig
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.AssemblyInfoInputs.cache
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.AssemblyInfo.cs
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.csproj.CoreCompileInputs.cache
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.dll
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.pdb
+D:\c solutions\csharp\zad8_I\obj\Debug\netcoreapp3.1\zad8_I.genruntimeconfig.cache
