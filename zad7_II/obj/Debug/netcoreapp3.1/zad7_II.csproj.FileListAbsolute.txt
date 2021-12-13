@@ -1,0 +1,14 @@
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.exe
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.deps.json
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.runtimeconfig.json
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.runtimeconfig.dev.json
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.dll
+D:\c solutions\csharp\zad7_II\bin\Debug\netcoreapp3.1\zad7_II.pdb
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.csproj.AssemblyReference.cache
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.GeneratedMSBuildEditorConfig.editorconfig
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.AssemblyInfoInputs.cache
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.AssemblyInfo.cs
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.csproj.CoreCompileInputs.cache
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.dll
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.pdb
+D:\c solutions\csharp\zad7_II\obj\Debug\netcoreapp3.1\zad7_II.genruntimeconfig.cache
