@@ -1,0 +1,15 @@
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.exe
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.deps.json
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.runtimeconfig.json
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.runtimeconfig.dev.json
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.dll
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\ref\zad9_I.dll
+C:\Users\susal\source\repos\zad9_I\zad9_I\bin\Debug\net5.0\zad9_I.pdb
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.AssemblyInfo.cs
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.dll
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\ref\zad9_I.dll
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.pdb
+C:\Users\susal\source\repos\zad9_I\zad9_I\obj\Debug\net5.0\zad9_I.genruntimeconfig.cache
