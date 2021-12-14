@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.exe
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.deps.json
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.runtimeconfig.json
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.runtimeconfig.dev.json
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.dll
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\ref\zad9_II.dll
+C:\Users\susal\source\repos\zad9_II\zad9_II\bin\Debug\net5.0\zad9_II.pdb
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.AssemblyInfo.cs
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.dll
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\ref\zad9_II.dll
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.pdb
+C:\Users\susal\source\repos\zad9_II\zad9_II\obj\Debug\net5.0\zad9_II.genruntimeconfig.cache
